@@ -26,7 +26,7 @@ Nourish Path aims to be a trusted companion for every expecting mother, helping 
 | Naufal Hanggara Putra Anwar | C296B4KY3286  | Cloud Computing  | Universitas Pembangunan Nasional Veteran Jawa Timur |
 | Dika Maulana Putra Pratama | C296B4KY1127	  | Cloud Computing   | Universitas Pembangunan Nasional Veteran Jawa Timur |
 | Faradita Sabila		      | M296B4KX1394     | Machine Learning   | Universitas Pembangunan Nasional Veteran Jawa Timur  |
-| Hanim Rachma Nur Haliza		 | : M296B4KX1715	 | Machine Learning |Universitas Pembangunan Nasional Veteran Jawa Timur is  |
+| Hanim Rachma Nur Haliza		 | M296B4KX1715	 | Machine Learning |Universitas Pembangunan Nasional Veteran Jawa Timur |
 | Alya Zahirah Riyadi        | M296B4KX0442 | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 ## Note
