@@ -1,4 +1,4 @@
-<h1 align="center">Nourish Path - Nutritional Guidance and Education for Pregnant Mothers</h1>
+<h1 align="center">Nourish Path - Nutritional Guidance and Education for Mothers</h1>
 <br>
 
 <h3 align="center">Bangkit 2024 Batch 2 Product Track Capstone Project</h3>
