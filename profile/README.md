@@ -36,11 +36,11 @@ Nourish Path aims to be a trusted companion for every expecting mother, helping 
 | Alya Zahirah Riyadi        | M296B4KX0442 | Machine Learning | Universitas Pembangunan Nasional Veteran Jawa Timur |
 
 ## References
-1. **Zintan Prihatini, Shierine Wangsa Wibawa**. *Angka Stunting Indonesia 24,4 Persen, 7 Provinsi Catat Kasus Tertinggi*. Kompas.com. Published by Kompas on July 1, 2022.  
-   [Baca artikel lengkap di Kompas.com](https://www.kompas.com/sains/read/2022/07/01/140000123/angka-stunting-indonesia-24-4-persen-7-provinsi-catat-kasus-tertinggi)
+1. **Zintan Prihatini, Shierine Wangsa Wibawa**. *Angka Stunting Indonesia 24,4 Persen, 7 Provinsi Catat Kasus Tertinggi*. Published by Kompas.com on July 1, 2022.  
+   [Read full article on Kompas.com](https://www.kompas.com/sains/read/2022/07/01/140000123/angka-stunting-indonesia-24-4-persen-7-provinsi-catat-kasus-tertinggi)
 
 2. **WHO**. *Stunting in a nutshell*. Published by WHO Departmental Update on November 19, 2015.
-   [Baca artikel lengkap di WHO](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell)
+   [Read full article on WHO](https://www.who.int/news/item/19-11-2015-stunting-in-a-nutshell)
 
 ## Note
 This project is for educational purposes only and is intended as a **Project Based Learning** exercise. It is **not designed for real-world use** and should not be relied upon for actual medical advice or pregnancy management. Always consult with a healthcare professional for any medical or nutritional guidance during pregnancy.
